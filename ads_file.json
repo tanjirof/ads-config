@@ -1,0 +1,26 @@
+{
+  "Ads": [
+    {
+      "banner_id": "ca-app-pub-3296959331111595/6602160341",
+      "interstitial_id": "ca-app-pub-3296959331111595/7104761219",
+      "rewarded_id": "ca-app-pub-3296959331111595/4837690527",
+      "native_id": "ca-app-pub-3296959331111595/7272282172",
+      
+      "status": "true",
+      "status_interstitial": "true",
+      "status_rewarded": "true",
+      "splash_ads": "true"
+    },
+    {
+      "interstitial_id": "your_fbIntersitial_id",
+      "banner_id": "your_fbbanner_id",
+      "native_banner_id": "your_fbnativeBanner_id",
+      "native_id": "your_fbnative_id",
+      
+      "status_native": "false",
+      "status_interstitial": "false",
+      "status_rewarded": "false",
+      "status": "false"
+    }
+  ]
+}
